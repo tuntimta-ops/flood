@@ -1,4 +1,3 @@
-cat << 'EOF' > bot.py
 import os
 import requests
 import time
