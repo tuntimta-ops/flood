@@ -3,7 +3,7 @@ import os
 import requests
 import time
 
-API_URL = "https://YOUR_CODESPACE_1_URL-5000.app.github.dev"
+API_URL = "https://obscure-engine-vgqvxvrjrwqh6vq-5000.app.github.dev"
 
 CPP_CODE = """
 #include <iostream>
